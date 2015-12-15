@@ -49,4 +49,4 @@ def megane(list_N,list_M):
                 x_counter =0
                 y_counter += 1
 megane = megane(list_N,list_M)
-print megane[0],megane[1]
+print megane[0],megane[0]
